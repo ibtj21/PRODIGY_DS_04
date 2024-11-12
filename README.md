@@ -23,8 +23,10 @@ The Jupyter notebook includes:
 
 ## Libraries Used
 - **pandas**: For data manipulation and analysis.
+- **numpy**: For numerical operations and array handling.
+- **re**: For regular expressions used in text cleaning.
 - **matplotlib**: For data visualization and plotting graphs.
-- **seaborn**: For advanced visualization techniques.
+- **wordcloud**: For generating word clouds from text data.
 - **vaderSentiment**: For performing sentiment analysis using the VADER sentiment analysis tool.
 
 ## Contact
