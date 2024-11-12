@@ -5,7 +5,7 @@ This project focuses on performing sentiment analysis on a dataset of tweets to 
 
 The project includes key tasks such as data cleaning, preprocessing, sentiment classification using VADER (Valence Aware Dictionary and sEntiment Reasoner), and visualizing sentiment trends. The overall goal is to provide actionable insights on how different entities or brands are perceived based on social media discourse.
 
-For a more detailed overview, please visit the notebook: [Task02_Sentiment_Analysis_Project.ipynb](<GitHub_Link>).
+For a more detailed overview, please visit the notebook: [(https://github.com/ibtj21/PRODIGY_DS_04/blob/main/Sentiment_analysis.ipynb)].
 
 ## Notebook Highlights
 The Jupyter notebook includes:
