@@ -35,7 +35,7 @@ Key Python libraries used include `pandas`, `matplotlib`, `seaborn`, and `wordcl
 ___  
 
 ## Data Source  
-The dataset used in this project contains tweets from Twitter and is publicly available on Kaggle: [Sentiment Analysis on Twitter Dataset](https://www.kaggle.com/datasets)  
+The dataset used in this project is the **Twitter Sentiment Dataset**, which contains a collection of tweets for sentiment analysis: [Twitter Sentiment Dataset](https://github.com/Ambition-08/PRODIGY_DS_04/blob/main/twitter_training.csv).  
 
 ___  
 
